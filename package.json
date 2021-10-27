@@ -1,0 +1,18 @@
+{
+  "name": "npm-crash-course",
+  "version": "1.0.0",
+  "description": "simple npm crash course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "jalankan-server" : "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arga",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {}
+}
